@@ -1,0 +1,63 @@
+Project Overview and Requirement Document
+1. Functional Requirements
+
+ 1. User Registration and Authentication:
+   - Users should be able to register an account on the platform and authenticate themselves securely.
+
+ 2. Asset Tokenization:
+   - Users should be able to tokenize various types of assets, such as real estate, art, commodities, securities, etc., by providing necessary information and documentation.
+   - The platform should support the creation of unique digital tokens representing each asset.
+
+ 3. Asset Issuance and Management:
+   - Asset owners should be able to issue tokens representing their assets and define ownership rights, dividend distribution, and other associated parameters.
+   - The platform should allow asset owners to manage and update asset details, ownership transfers, and other relevant information.
+
+ 4. Secondary Market Trading:
+   - Users should be able to buy, sell, and trade asset tokens on a secondary market.
+   - The platform should provide order matching, transaction settlement, and trade execution functionalities.
+
+ 5. Wallet and Custody Services:
+   - Users should have digital wallets to securely store their asset tokens.
+   - The platform should offer custody services to ensure the safekeeping and security of asset tokens.
+
+
+
+2. Product Backlog (Feature List)
+
+- User registration and authentication
+- Asset tokenization feature
+- Asset issuance and management functionality
+- Secondary market trading capabilities
+- Wallet creation and custody services
+- Regulatory compliance integration
+- User interface design and user experience improvements
+- Integration with payment gateways for transactions
+
+3. Workflow Diagram
+
+ a. User Registration:
+   - Users register an account on the platform by providing their personal information and creating login credentials.
+
+ b. User Authentication:
+   - Users authenticate themselves using their login credentials to access the platform.
+
+ c. Asset Tokenization:
+   - Asset owners provide information and documentation about their assets, such as title deeds, valuation reports, and ownership details.
+   - The platform verifies the provided information and creates unique digital tokens representing the assets.
+
+ d. Asset Issuance and Management:
+   - Asset owners issue asset tokens by defining ownership rights, dividend distribution rules, and other parameters.
+   - The platform records the asset details, ownership transfers, and other relevant information in a decentralized ledger.
+
+ e. Secondary Market Trading:
+   - Users can browse the available asset tokens on the secondary market.
+   - Buyers place buy orders and sellers place sell orders for the desired asset tokens.
+   - The platform matches buy and sell orders based on predefined criteria and executes the transactions.
+
+ f. Wallet Creation and Custody Services:
+   - Users create digital wallets on the platform to securely store their asset tokens.
+   - The platform provides custody services to safeguard the asset tokens and protect them from unauthorized access.
+
+5. User Story
+
+ As a user, I want to register an account on the platform, tokenize my property, and trade the asset tokens on the secondary market. I also want to have a secure wallet to store my asset tokens and ensure compliance with regulatory requirements. Additionally, I need access to reporting features to track my investments.
